@@ -31,4 +31,4 @@ An Android-based learning platform that helps students access educational conten
 ## Connect With Me
 
 * LinkedIn: Add your LinkedIn profile link
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/dattakate
