@@ -1,14 +1,10 @@
 # Hi, I'm Dattatray Kate 👋
 
-## About Me
-
 🎓 Computer Engineering Student
 
 💻 Interested in Software Development, Android Development, and Backend Development
 
-🌱 Currently learning PostgreSQL, Docker, and modern software development practices
-
-📍 Maharashtra, India
+🌱 Currently learning Java, Python, PostgreSQL, MySQL, and Docker
 
 ## Tech Stack
 
@@ -18,17 +14,17 @@
 * MySQL
 * Android Development
 * Git & GitHub
-* Docker (Learning)
 
-## Projects
+## Featured Project
 
 ### Smart E-Learning App
 
-An Android-based learning platform that helps students access educational content and improve learning efficiency.
+An Android-based learning platform designed to help students access educational resources and improve learning efficiency.
 
+## Current Goal
 
+Building projects and looking for internship opportunities to gain real-world software development experience.
 
-## Connect With Me
-
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: https://github.com/dattakate
+Connect With Me
+LinkedIn:https://www.linkedin.com/in/datta-kate/
+GitHub: https://github.com/dattakate
