@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Dattatray Kate 👋
 
-<!--
-**dattakate/dattakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development, Android Development, and Backend Development
+
+🌱 Currently learning PostgreSQL, Docker, and modern software development practices
+
+📍 Maharashtra, India
+
+## Tech Stack
+
+* Java
+* Python
+* PostgreSQL
+* MySQL
+* Android Development
+* Git & GitHub
+* Docker (Learning)
+
+## Projects
+
+### Smart E-Learning App
+
+An Android-based learning platform that helps students access educational content and improve learning efficiency.
+
+
+
+## Connect With Me
+
+* LinkedIn: Add your LinkedIn profile link
+* GitHub: https://github.com/YOUR_USERNAME
